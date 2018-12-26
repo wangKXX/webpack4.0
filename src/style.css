@@ -1,0 +1,10 @@
+html,body{
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+div{
+  color: aqua;
+  font-size: 30px;
+  border-radius: 5px;
+}
